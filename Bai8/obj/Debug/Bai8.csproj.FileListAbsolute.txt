@@ -1,0 +1,10 @@
+C:\Users\khanh\source\repos\BTH5\Bai8\bin\Debug\Bai8.exe.config
+C:\Users\khanh\source\repos\BTH5\Bai8\bin\Debug\Bai8.exe
+C:\Users\khanh\source\repos\BTH5\Bai8\bin\Debug\Bai8.pdb
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.Form1.resources
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.exe
+C:\Users\khanh\source\repos\BTH5\Bai8\obj\Debug\Bai8.pdb
